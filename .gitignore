@@ -4,8 +4,7 @@ hdbscan/tests/*.pyc
 hdbscan/*.pyd
 hdbscan/tests/*.pyd
 hdbscan/__pycache__/*
-dist/*
 *egg-info
 notebooks/.ipynb_checkpoints/*
 __pycache__/
-
+venv/*
